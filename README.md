@@ -8,7 +8,7 @@ This project uses A* for matrix. Moves are possible to right,left,up and down, b
 1. Clone:
    git clone https://github.com/ZbrMa/React-Astar.git
 2. Navigate to project repository:
-   cd React-Astar
+   cd React-Astar/app
 3. Install dependencies:
    npm install
 4. Run:
