@@ -13,3 +13,6 @@ This project uses A* for matrix. Moves are possible to right,left,up and down, b
    npm install
 4. Run:
    npm start
+
+## ToDo
+Realtime visualization
