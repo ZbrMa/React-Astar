@@ -16,3 +16,4 @@ This project uses A* for matrix. Moves are possible to right,left,up and down, b
 
 ## ToDo
 Realtime visualization
+Change page name and picture
